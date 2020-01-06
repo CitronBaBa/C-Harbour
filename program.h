@@ -10,7 +10,5 @@ class Sugar
             sweetness = initSweetness;
        }
        void melt();
-       // {
-       //      std::cout << "My sweetness is " << sweetness;
-       // }
+       
 };

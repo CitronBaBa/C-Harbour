@@ -3,7 +3,7 @@
 
 void Sugar::melt()
 {
-      std::cout << "My sweetness is " << sweetness;
+    std::cout << "My sweetness is " << sweetness;
 }
 
 int main() 
